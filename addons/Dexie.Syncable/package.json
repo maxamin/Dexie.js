@@ -75,7 +75,7 @@
     "dexie-observable": "workspace:^"
   },
   "devDependencies": {
-    "dexie": "workspace:^3.0.2 || ^4.0.0-alpha.1",
+    "dexie": "3.0.4",
     "dexie-observable": "workspace:^",
     "eslint": "^5.16.0",
     "just-build": "^0.9.24",
