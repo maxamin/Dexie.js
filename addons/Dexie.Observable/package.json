@@ -83,7 +83,7 @@
   },
   "devDependencies": {
     "@types/node": "^18.7.14",
-    "dexie": "workspace:^3.0.2 || ^4.0.0-alpha.1",
+    "dexie": "3.0.4",
     "eslint": "^7.27.0",
     "just-build": "^0.9.24",
     "qunit": "^2.9.2",
